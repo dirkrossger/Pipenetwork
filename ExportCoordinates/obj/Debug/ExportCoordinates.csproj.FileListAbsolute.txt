@@ -1,0 +1,13 @@
+H:\Dropbox\.net ÅF\Utveckling\Pipenetwork\ExportCoordinates\ExportCoordinates\obj\Debug\ExportCoordinates.Form1.resources
+H:\Dropbox\.net ÅF\Utveckling\Pipenetwork\ExportCoordinates\ExportCoordinates\obj\Debug\ExportCoordinates.csproj.GenerateResource.Cache
+H:\Dropbox\.net ÅF\Utveckling\Pipenetwork\ExportCoordinates\ExportCoordinates\bin\Debug\ExportCoordinates.dll
+H:\Dropbox\.net ÅF\Utveckling\Pipenetwork\ExportCoordinates\ExportCoordinates\bin\Debug\ExportCoordinates.pdb
+H:\Dropbox\.net ÅF\Utveckling\Pipenetwork\ExportCoordinates\ExportCoordinates\obj\Debug\ExportCoordinates.dll
+H:\Dropbox\.net ÅF\Utveckling\Pipenetwork\ExportCoordinates\ExportCoordinates\obj\Debug\ExportCoordinates.pdb
+h:\Dropbox\.net ÅF\Utveckling\Pipenetwork\ExportCoordinates\ExportCoordinates\obj\Debug\ExportCoordinates.csprojResolveAssemblyReference.cache
+h:\Dropbox\.net ÅF\CivilTools\PipeNetwork\ExportCoordinates\bin\Debug\ExportCoordinates.dll
+h:\Dropbox\.net ÅF\CivilTools\PipeNetwork\ExportCoordinates\bin\Debug\ExportCoordinates.pdb
+h:\Dropbox\.net ÅF\CivilTools\PipeNetwork\ExportCoordinates\obj\Debug\ExportCoordinates.Form1.resources
+h:\Dropbox\.net ÅF\CivilTools\PipeNetwork\ExportCoordinates\obj\Debug\ExportCoordinates.csproj.GenerateResource.Cache
+h:\Dropbox\.net ÅF\CivilTools\PipeNetwork\ExportCoordinates\obj\Debug\ExportCoordinates.dll
+h:\Dropbox\.net ÅF\CivilTools\PipeNetwork\ExportCoordinates\obj\Debug\ExportCoordinates.pdb

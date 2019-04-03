@@ -1,0 +1,14 @@
+H:\Dropbox\.net ÅF\CivilTools\PipeNetwork\ExportCoordinates\bin\Debug\cd.ExportCoordinates.dll
+H:\Dropbox\.net ÅF\CivilTools\PipeNetwork\ExportCoordinates\bin\Debug\cd.ExportCoordinates.pdb
+H:\Dropbox\.net ÅF\CivilTools\PipeNetwork\ExportCoordinates\obj\Debug\ExportCoordinates.Form1.resources
+H:\Dropbox\.net ÅF\CivilTools\PipeNetwork\ExportCoordinates\obj\Debug\cd.ExportCoordinates.csproj.GenerateResource.Cache
+H:\Dropbox\.net ÅF\CivilTools\PipeNetwork\ExportCoordinates\obj\Debug\cd.ExportCoordinates.dll
+H:\Dropbox\.net ÅF\CivilTools\PipeNetwork\ExportCoordinates\obj\Debug\cd.ExportCoordinates.pdb
+H:\Dropbox\.net ÅF\CivilTools\PipeNetwork\ExportCoordinates\obj\Debug\cd.ExportCoordinates.csprojResolveAssemblyReference.cache
+C:\Users\Dick\Documents\GitExt_projects\PipeNetwork\ExportCoordinates\bin\Debug\cd.ExportCoordinates.dll
+C:\Users\Dick\Documents\GitExt_projects\PipeNetwork\ExportCoordinates\bin\Debug\cd.ExportCoordinates.pdb
+C:\Users\Dick\Documents\GitExt_projects\PipeNetwork\ExportCoordinates\obj\Debug\cd.ExportCoordinates.csprojResolveAssemblyReference.cache
+C:\Users\Dick\Documents\GitExt_projects\PipeNetwork\ExportCoordinates\obj\Debug\ExportCoordinates.Form1.resources
+C:\Users\Dick\Documents\GitExt_projects\PipeNetwork\ExportCoordinates\obj\Debug\cd.ExportCoordinates.csproj.GenerateResource.Cache
+C:\Users\Dick\Documents\GitExt_projects\PipeNetwork\ExportCoordinates\obj\Debug\cd.ExportCoordinates.dll
+C:\Users\Dick\Documents\GitExt_projects\PipeNetwork\ExportCoordinates\obj\Debug\cd.ExportCoordinates.pdb
